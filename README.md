@@ -17,4 +17,4 @@
 
 ####Contato
 
-<img src='https://img.shields.ib/badge/LinkedIn-0077B5?style-for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>](
+[<img src='https://img.shields.ib/badge/LinkedIn-0077B5?style-for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/leonardo-tisc%C3%B3ski-scheidt-38b472144/)
